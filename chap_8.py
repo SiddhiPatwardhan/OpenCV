@@ -1,7 +1,19 @@
 import cv2
 import numpy as np
 
-# chap 9 - Contour/Shape detection
+# Chap 8 - Contour/Shape detection
+# Contours are useful for shape analysis and object detection. 
+# A contour is a curve joining all continuous points along a boundary with the same color or intensity.
+# For this we gonna use following :
+#  cv2.findContours(image, mode, method): 
+# RETR_EXTERNAL: Retrieves only the extreme outer contours. 
+# CHAIN_APPROX_NONE: Stores all the contour points. 
+# cv2.contourArea(cnt): Calculates area of a contour. 
+# cv2.arcLength(cnt, True): Finds perimeter. 
+# cv2.approxPolyDP(cnt, 0.02*peri, True): Approximates shape of contour. 
+# cv2.boundingRect(approx): Returns (x, y, width, height) of bounding box. 
+# cv2.putText(img, text, org, font, scale, color, thickness): 
+# org = (x+(w//2)-10,y+(h//2)-10) places label at center.
 
 def stackImages(scale,imgArray):
     rows = len(imgArray)

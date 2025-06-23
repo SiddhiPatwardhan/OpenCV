@@ -1,6 +1,15 @@
 import cv2
 import numpy as np
 
+# Chap 7 - Colour Detection with HSV
+# Why HSV? - HSV (Hue, Saturation, Value) is better for color filtering than BGR. It separates 
+# image intensity (brightness) from color information. 
+# For this we gonna use following :
+# cv2.cvtColor(img, cv2.COLOR_BGR2HSV): Convert BGR image to HSV 
+# cv2.inRange(imgHSV, lower, upper): Create mask for color range 
+# cv2.bitwise_and(img, img, mask=mask): Apply mask to keep only the target color 
+# cv2.createTrackbar(...): Create GUI sliders to tune HSV values live 
+
 def empty(a):
     pass
 

@@ -4,7 +4,7 @@ import numpy as np
 # chap 6 - Joining the images
 # Problem here is that we can not resize the image so its possible our image may go out of frame
 # another problem is that images should have same channels ie matrices
-# to resove the proplem you can use following function
+# to resove the proplem you can use following function 
 
 def stackImages(scale,imgArray):
     rows = len(imgArray)
