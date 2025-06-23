@@ -24,9 +24,9 @@ This repository contains **my complete learning journey of OpenCV**, structured 
 
 ## 📂 Chapters Covered
 
-1. Image Reading & Display
-2. Video and Webcam Input
-3. Basic Image Processing Techniques
+1. Read Images , Videos , Webcam
+2. Basic Functions
+3. Resizing and Cropping
 4. Drawing Shapes and Text
 5. Perspective Warping
 6. Image Stacking and Grids
