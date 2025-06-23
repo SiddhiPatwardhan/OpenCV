@@ -10,7 +10,7 @@ OpenCV (Open Source Computer Vision Library) is an open-source computer vision a
 
 This repository contains **my complete learning journey of OpenCV**, structured into **9 chapters**, each focusing on a specific core concept of computer vision.
 
-- Each chapter is organized in a **separate notebook/file**.
+- Each chapter is organized in a **separate file**.
 - Every chapter includes:
   - ✅ **Code Implementation**
   - 💬 **Commented Explanations** (within the code)
