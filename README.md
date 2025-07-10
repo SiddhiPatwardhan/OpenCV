@@ -6,7 +6,7 @@ OpenCV (Open Source Computer Vision Library) is an open-source computer vision a
 
 ---
 
-- Each chapter is organized in a **separate file**.
+- Each chapter is organized in a **separate file** and all resources needed are present in **Resources** folder .
 - Every chapter includes:
   -  **Code Implementation**
   -  **Commented Explanations** (within the code).
