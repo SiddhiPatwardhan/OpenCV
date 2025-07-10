@@ -1,4 +1,4 @@
-# OpenCV Learning Repository 📸🧠
+# OpenCV Learning Repository 
 
 ## 🔍 What is OpenCV?
 
@@ -6,21 +6,12 @@ OpenCV (Open Source Computer Vision Library) is an open-source computer vision a
 
 ---
 
-## 📘 About This Repository
-
-This repository contains **my complete learning journey of OpenCV**, structured into **9 chapters**, each focusing on a specific core concept of computer vision.
-
 - Each chapter is organized in a **separate file**.
 - Every chapter includes:
-  - ✅ **Code Implementation**
-  - 💬 **Commented Explanations** (within the code)
-- The repo is intended to be **beginner-friendly** — ideal for anyone starting with OpenCV.
+  -  **Code Implementation**
+  -  **Commented Explanations** (within the code).
 
-> 🔄 **All images, videos, and additional test resources** used in these projects are placed in the `resources/` folder for easy access.
-
-> ⚠️ Don’t worry if some of the last chapters have slightly longer code! Everything is written with **clear logic**, and the main focus is on **understanding the concept**, not just the code size.
-
----
+  ---
 
 ## 📂 Chapters Covered
 
@@ -45,6 +36,4 @@ This repository contains **my complete learning journey of OpenCV**, structured 
 - **Tools:**
   - Visual Studio Code
 
----
 
-Feel free to explore, learn, and experiment with the code. Contributions, suggestions, and improvements are always welcome! 🌟
