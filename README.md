@@ -11,9 +11,9 @@ OpenCV (Open Source Computer Vision Library) is an open-source computer vision a
   -  **Code Implementation**
   -  **Commented Explanations** (within the code).
 
-  ---
+---
 
-## 📂 Chapters Covered
+## 📂 Chapters :
 
 1. Read Images , Videos , Webcam
 2. Basic Functions
